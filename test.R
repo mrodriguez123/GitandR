@@ -1,1 +1,1 @@
-plot(mtcars$mpg, mtcars$hp)
+plot(mtcars$mpg, mtcars$hp, main = "plot")
